@@ -1,0 +1,9 @@
+<acl>
+    <page-user-teccosoporte>
+        <name>Lobby: TeccoSoporte</name>
+        <patterns>
+            <pattern>ui/teccosoporte/*</pattern>
+            <pattern>api/teccosoporte/*</pattern>
+        </patterns>
+    </page-user-teccosoporte>
+</acl>

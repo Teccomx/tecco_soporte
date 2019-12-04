@@ -1,0 +1,5 @@
+<menu>
+    <Lobby>
+        <TeccoSoporte VisibleName="Soporte" cssClass="fa fa-comment-o fa-fw" url="/ui/teccosoporte"/>
+    </Lobby>
+</menu>
